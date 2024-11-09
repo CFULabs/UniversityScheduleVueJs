@@ -8,7 +8,7 @@
 
 ## Деплой
 1. Склонировать репозиторий  
-   `git clone https://github.com/SanyaPilot/UniversitySchedDisplay`
+   `git clone https://github.com/CFULabs/UniversityScheduleVueJs`
 
 2. Установить зависимости  
    `npm install`
